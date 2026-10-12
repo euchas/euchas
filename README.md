@@ -10,6 +10,7 @@ Planetary scientist. Senior Fellow at the Leverhulme Centre for Life in the Univ
 **Tools** (Python, MIT, tested)
 
 - [pycrism](https://github.com/euchas/pycrism): CRISM summary parameters, cube readers and browse products in pure NumPy
+- [m3-spectral-toolkit](https://github.com/euchas/m3-spectral-toolkit): Moon Mineralogy Mapper reader, band parameters, thermal correction, Hapke single-scattering albedo and mixing
 - [lunar-ir-data-tools](https://github.com/euchas/lunar-ir-data-tools): Kaguya Spectral Profiler and Multiband Imager, Chandrayaan-2 IIRS readers and corrections
 - [cassis-colour-toolkit](https://github.com/euchas/cassis-colour-toolkit): CaSSIS colour cubes, 30 colour and spectral-shape parameters, RGB composites
 - [tes-destripe](https://github.com/euchas/tes-destripe): orbit-track destriping of MGS TES global maps
